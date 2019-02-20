@@ -1,4 +1,4 @@
-package com.example.blogp.studydemo050119
+package com.example.blogp.study_demo_since_2019_dec
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
